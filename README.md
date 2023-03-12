@@ -15,7 +15,7 @@ https://www.kaggle.com/datasets/arushchillar/disneyland-reviews
 - Park entrance is not well-designed (long waits)
 - Overpriced food and bad quality
 - Small park and very few rides (compared to other Disney parks)
-##California:
+## California:
 - Overpriced food
 - Extremely expensive overall
 - A lot of rides are closed (for unknown reasons)
